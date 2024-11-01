@@ -11,9 +11,11 @@ I received a B.Sc in  Information and Communication Engineering from the Banglad
 
 Education
 ======
-**Information and Communication Engineering  **                                                        2017-2021
-Bangladesh University of Professionals (BUP)
-CGPA-**3.75**/4
+**Information and Communication Engineering  **  
+                                                      2017-2021
+- Bangladesh University of Professionals (BUP)
+
+- CGPA-**3.75**/4
 
 **Higher Secondary School Certificate**                                                                     2015
 Notre Dame College, Dhaka
